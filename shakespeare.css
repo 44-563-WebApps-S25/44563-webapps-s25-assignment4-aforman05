@@ -27,3 +27,14 @@
 .prospero {
     color: chartreuse;
 }
+
+table {
+    border: solid 2px cornflowerblue;
+    text-align: center;
+    margin: 45px;
+    padding: 10px;
+}
+
+td, th {
+    border: solid 1px magenta;
+}
