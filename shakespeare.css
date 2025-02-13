@@ -1,0 +1,29 @@
+.speech{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12;
+    color: black;
+}
+
+.direction{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 14;
+    color: black;
+    background-color: lightcoral;
+}
+
+.direction:hover {
+    color: olive;
+    background-color: blanchedalmond;
+}
+
+.miranda {
+    color:fuchsia;
+}
+
+.ferdinand {
+    color:crimson;
+}
+
+.prospero {
+    color: chartreuse;
+}
